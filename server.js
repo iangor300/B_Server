@@ -1,3 +1,4 @@
+‘response.end(" | v=1\n");
 var http = require('http');
 var requests=0;
 var podname= process.env.HOSTNAME;
